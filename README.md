@@ -1,6 +1,6 @@
 ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
 
-To be able to use the implementation in newer applications, the implementation to Tensorflow should be updated. 
+To be able to use the implementation in newer applications, the Tensorflow implementation should be updated. 
 This branch is currently under development, and will not work for you yet. You are welcome to contribute.
 
 ¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
